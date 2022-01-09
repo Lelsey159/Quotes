@@ -1,0 +1,32 @@
+
+<div class="row">
+    <div class="col-md-12 col">
+        <div class="card">
+<ul>
+  <div *ngFor='let quote of quotes;let i = index'>
+
+<div class="card m-4" style="border-color: black; border-style: dotted;">
+    
+    <li class="m-2" appHighlight> 
+        <p class="text-sm m-2">
+            {{quote.description}}
+  
+          </p>
+        ~  {{quote.author}}<br>
+    
+    </li>
+
+    <button class="btn btn-info m-3 "  (click)='toggleDetails(i)'>More.</button>
+    <app-more *ngIf='quote.showDescription' [goal]='quote' (isComplete) = 'deleteGoal($event,i)'></app-more>
+  </div>
+  </div>
+</ul>
+</div>
+</div>
+<div class="container ">
+    <div class="card ml-3">
+    <app-form (addQuote)="addNewQuote($event)"></app-form>
+  </div>
+  </div>
+  </div>
+<p *ngIf='quotes.length > 5'>You have too many goals</p>

@@ -1,0 +1,8 @@
+<div class="m-2">
+    <p class="text-sm">Published - {{goal.postedDate|count}}<br>
+    Published by - {{goal.name}}</p>
+  
+<button class="btn btn-sm float-right btn-danger m-2" (click)= 'goalDelete(true)'><i class="fa fa-trash"></i> Delete</button>
+  <button class="btn btn-sm btn-success m-2" (click)="upVote()">{{like}} Votes</button>
+  <button class=" btn btn-sm btn-danger" (click)="downVote()">{{dislike}} Downvotes</button>
+</div>
