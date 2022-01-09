@@ -17,6 +17,16 @@ To access this project on your local files, you can clone it using these steps
 3. This will clone the repositoty into your local folder
 
 
+### Techonogies used
+1. HTML
+2. CSS
+3. JS
+4. Git
+5. Bootstrap
+6. Jquery
+7. Typescript
+
+
 ## Code scaffolding
 
 Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
