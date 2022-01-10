@@ -1,7 +1,7 @@
 # Quotes :100: :fire:
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.1.2.
-![](https://www.rd.com/wp-content/uploads/2020/05/KindnessQuotes48.jpg )
+![](https://hourofcode.com/shared/images/fit-1200/hoc-cse-arrows.png )
 
 
 ## Author
