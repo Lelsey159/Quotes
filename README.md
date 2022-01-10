@@ -1,4 +1,4 @@
-# Quotes
+# Quotes :100: :fire:
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.1.2.
 ## Author
@@ -28,6 +28,8 @@ To access this project on your local files, you can clone it using these steps
 5. Bootstrap
 6. Jquery
 7. Typescript
+8. Nodejs
+9. NPM
 
 
 ###  CONTACT US
