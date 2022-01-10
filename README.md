@@ -43,7 +43,8 @@ To access this project on your local files, you can clone it using these steps
 ```
 
 ###  CONTACT US
-> 1.If you have any issue with our website,dont hesitate to contact us lesley.hope@student.moringaschool.com
+> 1.If you have any issue with our website,dont hesitate to contact us lesley.hope@student.moringaschool.com.
+
 > 2.Phone Number: +254 771754165
 
 ## Code scaffolding
