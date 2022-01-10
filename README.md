@@ -4,8 +4,8 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 ![](https://hourofcode.com/shared/images/fit-1200/hoc-cse-arrows.png )
 
 
-## Author
-### Lesley Hope
+# Author
+> Lesley Hope
 
 
 ## Description
