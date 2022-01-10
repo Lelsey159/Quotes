@@ -5,7 +5,10 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 ### Lesley Hope
 
 ## Description
-A web application where users can create quotes and have those quotes voted on whether they are terrible or are inspirational. 
+Quotes is a web application which allowes user to view and create new quote. 
+Users can like or dislike quotes.
+Users can delete a quote.
+
 
 ## Development server
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
