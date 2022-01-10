@@ -30,6 +30,9 @@ To access this project on your local files, you can clone it using these steps
 7. Typescript
 
 
+###  CONTACT US
+if you have any issue with our website,dont hesitate to contact us lesley.hope@student.moringaschool.com
+
 ## Code scaffolding
 
 Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
