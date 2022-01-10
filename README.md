@@ -37,6 +37,11 @@ if you have any issue with our website,dont hesitate to contact us lesley.hope@s
 
 Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
 
+### contributing
+our website is build with little knowledge in the three language,it is however,open to anyone who would wish to contribute to our project.
+you can also refer here https://stackoverflow.com/questions/8503559/what-is-linting to learn more and run tests.
+software methods and tools refer herehttp://www.methodsandtools.com/archive/archive.php?id=33.
+
 ## Build
 
 Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
