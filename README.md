@@ -21,7 +21,7 @@ Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app w
 To access this project on your local files, you can clone it using these steps
 ```
 1. Open your terminal
-2. git clone  https://github.com/Lelsey159
+2. git clone  git@github.com:Lelsey159/Quotes.git
 3. This will clone the repositoty into your local folder
 4. cd quotes
 5. ng serve --open
@@ -43,8 +43,8 @@ To access this project on your local files, you can clone it using these steps
 ```
 
 ###  CONTACT US
-> if you have any issue with our website,dont hesitate to contact us lesley.hope@student.moringaschool.com
-> Phone Number: +254 771754165
+> 1.If you have any issue with our website,dont hesitate to contact us lesley.hope@student.moringaschool.com
+> 2.Phone Number: +254 771754165
 
 ## Code scaffolding
 
