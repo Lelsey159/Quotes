@@ -15,9 +15,14 @@ Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app w
 
 ### Clone
 To access this project on your local files, you can clone it using these steps
+```
 1. Open your terminal
-2. Use this command to clone `$  https://github.com/Lelsey159
+2. git clone  https://github.com/Lelsey159
 3. This will clone the repositoty into your local folder
+4. cd quotes
+5. ng serve --open
+6. browser will open automatically.
+```
 
 
 ### Techonogies used
