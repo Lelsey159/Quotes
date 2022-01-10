@@ -19,8 +19,9 @@ To access this project on your local files, you can clone it using these steps
 2. Use this command to clone `$  https://github.com/Lelsey159
 3. This will clone the repositoty into your local folder
 
-```
+
 ### Techonogies used
+```
 1. HTML
 2. CSS
 3. JS
