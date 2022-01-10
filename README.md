@@ -19,7 +19,7 @@ To access this project on your local files, you can clone it using these steps
 2. Use this command to clone `$  https://github.com/Lelsey159
 3. This will clone the repositoty into your local folder
 
-
+```
 ### Techonogies used
 1. HTML
 2. CSS
@@ -30,7 +30,7 @@ To access this project on your local files, you can clone it using these steps
 7. Typescript
 8. Nodejs
 9. NPM
-
+```
 
 ###  CONTACT US
 if you have any issue with our website,dont hesitate to contact us lesley.hope@student.moringaschool.com
