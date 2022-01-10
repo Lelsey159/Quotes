@@ -1,8 +1,12 @@
 # Quotes :100: :fire:
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.1.2.
+![](https://www.rd.com/wp-content/uploads/2020/05/KindnessQuotes48.jpg )
+
+
 ## Author
 ### Lesley Hope
+
 
 ## Description
 Quotes is a web application which allowes user to view and create new quote. 
